@@ -6,6 +6,7 @@ A super simple FastAPI application that allows students to view and sign up for 
 
 - View all available extracurricular activities
 - Sign up for activities
+- Persist activity and signup data in SQLite so data survives server restarts
 
 ## Getting Started
 
